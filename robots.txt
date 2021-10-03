@@ -1,1 +1,1 @@
-Sitemap: https://abinayamahendiran.github.io/home/sitemap.xml
+Sitemap: https://abinayamahendiran.github.io/sitemap.xml
