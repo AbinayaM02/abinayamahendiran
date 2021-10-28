@@ -5,10 +5,10 @@ permalink: /about/
 ---
 
 **Work Experience**
-- ** Manager Data Science**, [Mphasis, NEXT Labs](https://www.mphasis.com/home/innovation/nextlabs.html), Bangalore, India, (Jan, 2021 - Present)
-- ** Assistant Manager**, [Mphasis, NEXT Labs](https://www.mphasis.com/home/innovation/nextlabs.html), Bangalore, India, (May, 2017 - Dec, 2020)
-- ** Software Engineer II**, [Cisco Systems, Inc.](https://www.cisco.com/c/en_in/index.html), Bangalore, India, (Aug, 2014 - Apr, 2017)
-- ** Programmer Analyst Trainee**, [Cognizant Technology Solutions](https://www.cognizant.com/in/en), Coimbatore, India, (Jul, 2010 - Apr, 2011)
+- **Manager Data Science**, [Mphasis, NEXT Labs](https://www.mphasis.com/home/innovation/nextlabs.html), Bangalore, India, (Jan, 2021 - Present)
+- **Assistant Manager**, [Mphasis, NEXT Labs](https://www.mphasis.com/home/innovation/nextlabs.html), Bangalore, India, (May, 2017 - Dec, 2020)
+- **Software Engineer II**, [Cisco Systems, Inc.](https://www.cisco.com/c/en_in/index.html), Bangalore, India, (Aug, 2014 - Apr, 2017)
+- **Programmer Analyst Trainee**, [Cognizant Technology Solutions](https://www.cognizant.com/in/en), Coimbatore, India, (Jul, 2010 - Apr, 2011)
 
 
 **Education**
