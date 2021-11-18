@@ -12,6 +12,8 @@ permalink: /about/
 
 
 **Education**
-- M.Tech in Information Technology, International Institute of Information Technology Bangalore, 2012 to 2014. CGPA: 3.61/4
-- B.Tech in Information Technology, Amrita School of Engineering, Coimbatore, 2006 to 2010. CGPA:8.17/10
+- **M.Tech** in Information Technology, [International Institute of Information Technology Bangalore](https://www.iiitb.ac.in/), 2012 to 2014. CGPA: 3.61/4
+- **B.Tech** in Information Technology, [Amrita School of Engineering, Coimbatore](https://amrita.edu/), 2006 to 2010. CGPA:8.17/10
 
+
+[LinkedIn](https://www.linkedin.com/in/abinayamahendiran/)
